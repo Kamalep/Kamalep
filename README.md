@@ -1,8 +1,8 @@
 ### Hi there 👋 My name is Kamal from Madinah, Saudi Arabia.
 - 🌱 I've been starting to learn Python since around one year ago . 
 - 🔭 In this time I try to sharpen my skills At GUI via PyQt5. 
-- 🤔 My goal is to become a professional Python developer.
-- Enjoy in your life.
+- :bowtie: My goal is to become a professional Python developer. :snake:
+- :hand: Enjoy your time.
 
 
 <!--
