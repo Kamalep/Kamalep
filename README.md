@@ -1,10 +1,5 @@
-### Hi there 👋 My name is Kamal from Saudi Arabia.
-- 🌱 I've been starting to learn Python since around one year ago . 
+### Hi there, that's me 👋
 - 🔭 I currently learning PyQt5. 
-- 👯 I’m looking to collaborate on Python prtoject.
-- :bowtie: My goal is to become a professional Python developer. :snake:
-- :hand: Happy Pythoning!
-
 
 <!--
 **Kamalep/Kamalep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I've been starting to learn Python since around one year ago . 
+- 🔭 I currently learning PyQt5. 
+- 👯 I’m looking to collaborate on Python prtoject.
+- :bowtie: My goal is to become a professional Python developer. :snake:
+- :hand: Happy Pythoning!
 -->
