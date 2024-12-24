@@ -1,5 +1,5 @@
 ### Hi there, that's me 👋
-- 🔭 I currently learning PyQt5. 
+- 🌱 I’m currently learning Django, JavaScript and PostgresQL. 
 
 <!--
 **Kamalep/Kamalep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
